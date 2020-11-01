@@ -1,2 +1,0 @@
-# Pashaa
-object detection
